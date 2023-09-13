@@ -1,0 +1,27 @@
+html{
+    scroll-behavior: smooth;
+}
+
+.frame{
+    border: blue;
+    border-style: solid;
+    border-width: thin;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+h1, h2{margin:16px; font-family:Verdana,sans-serif; color: #2b9dff;}
+
+p{font-family: Verdana, sans-serif; color: #032d51}
+
+ul{
+    list-style: symbols(cyclic "\1F347" "1\F351");
+}
+
+li{
+    font-family: Verdana, sans-serif;
+    color: #032d51;
+}
+
+
+
